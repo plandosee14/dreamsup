@@ -7,8 +7,22 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 	<h3>하으니는 아가야</h3>
 	
+=======
+	<h3>다우니 와써염 ><</h3>
+	<hr>
+	다우니다우니 와쓰어어어어염><
+	<br> 개뀰!><
+	<br> 다..우..니ㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣ는 라면좋아해염
+	<br> 다우니는 밥좋아해염
+	<br> 다우니는 고기는 안좋아해염
+	<br> 다우니 붕어빵좋아해염><
+	<br> 다우니 바보
+	<br> 멍청이 똥개
+	<br> 해삼 말미잘!
+>>>>>>> branch 'master' of https://github.com/plandosee14/dreamsup.git
 
 </body>
 </html>
