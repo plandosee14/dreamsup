@@ -8,7 +8,7 @@
 </head>
 <body>
 <<<<<<< HEAD
-	<h3>하으니는 아가야</h3>
+	<h3>하으니는 아가리</h3>
 	
 =======
 	<h3>다우니 와써염 ><</h3>
@@ -22,7 +22,6 @@
 	<br> 다우니 바보
 	<br> 멍청이 똥개
 	<br> 해삼 말미잘!
->>>>>>> branch 'master' of https://github.com/plandosee14/dreamsup.git
 
 </body>
 </html>
