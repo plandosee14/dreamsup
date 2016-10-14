@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- <h3>오빠카드어딨게여</h3>
- <h3>뒤진다 정프랜들리</h3>
- <h3>폰 요있지롱</h3>
- <h3>폰내놔 ㅡㅡ</h3>
+
 </body>
 </html>
